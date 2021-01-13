@@ -12,7 +12,7 @@ spec:
   host: example-ds-example-project.apps.hukhan.dev.datahub.redhat.com
   to:
     kind: Service
-    name: the-servicefdsqa
+    name: the-servicefdsqafdsafsafdsa
     weight: 100
   port:
     targetPort: 8080
